@@ -1,0 +1,5 @@
+## Index of source code examples:
+
+\Add barcode to Word document in C# with BarCode SDK
+\Add barcode to Word document in VB with BarCode SDK.NET
+\Generate Barcodes In Word with VBA with BarCode SDK
